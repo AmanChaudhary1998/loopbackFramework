@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "Todo": 7,
+    "TodoList": 3,
+    "Todolist": 1
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"id\":1,\"title\":\"update\",\"desc\":\"put query\",\"isComplete\":true,\"todoListId\":1,\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3,\"todoListId\":2,\"id\":3}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4,\"todoListId\":1,\"id\":4}",
+      "5": "{\"title\":\"test\",\"desc\":\"post query\",\"isComplete\":true,\"id\":5}",
+      "6": "{\"title\":\"relation\",\"desc\":\"todolist works\",\"isComplete\":true,\"todolistId\":1,\"id\":6}"
+    },
+    "TodoList": {
+      "1": "{\"title\":\"Sith lord's check list\",\"color\":\"blue\",\"id\":1}",
+      "2": "{\"title\":\"My daily chores\",\"color\":\"red\",\"id\":2}"
+    },
+    "Todolist": {}
+  }
+}
